@@ -146,7 +146,7 @@ Any updated version will be made available at the location where this Privacy Po
 If you have any questions about this Privacy Policy or BHC Sudoku's handling of information, please contact:
 
 **BHC Tecnologia**
-**Email:** [bhctecnologia@live.com](mailto:bhctecnologia@live.com)
+**Email:** [support@bhcsoftware.com.br](mailto:support@bhcsoftware.com.br)
 
 ---
 
@@ -289,7 +289,7 @@ Qualquer versão atualizada estará disponível no local onde esta Política de 
 Se você tiver dúvidas sobre esta Política de Privacidade ou sobre o tratamento de informações pelo BHC Sudoku, entre em contato:
 
 **BHC Tecnologia**
-**E-mail:** [bhctecnologia@live.com](mailto:bhctecnologia@live.com)
+**E-mail:** [support@bhcsoftware.com.br](mailto:support@bhcsoftware.com.br)
 
 ---
 
@@ -432,7 +432,7 @@ Toute version mise à jour sera disponible à l'emplacement où cette Politique 
 Si vous avez des questions concernant cette Politique de confidentialité ou la manière dont BHC Sudoku traite les informations, veuillez nous contacter :
 
 **BHC Tecnologia**
-**E-mail :** [bhctecnologia@live.com](mailto:bhctecnologia@live.com)
+**E-mail :** [support@bhcsoftware.com.br](mailto:support@bhcsoftware.com.br)
 
 ---
 
@@ -575,4 +575,4 @@ Cualquier versión actualizada estará disponible en el lugar donde se publique 
 Si tiene alguna pregunta sobre esta Política de Privacidad o sobre el tratamiento de información por parte de BHC Sudoku, puede ponerse en contacto con nosotros:
 
 **BHC Tecnologia**
-**Correo electrónico:** [bhctecnologia@live.com](mailto:bhctecnologia@live.com)
+**Correo electrónico:** [support@bhcsoftware.com.br](mailto:support@bhcsoftware.com.br)
